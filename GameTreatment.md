@@ -1,4 +1,4 @@
-## High Concept
+# High Concept
 It's almost like agar.io, but it's not! Instead you chuck circles at the other player until they shrink away!
 
 ## Genre
